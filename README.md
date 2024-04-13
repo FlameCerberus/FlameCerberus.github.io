@@ -16,6 +16,10 @@ The project aims to provide a comprehensive health and location-tracking solutio
 
 [Thingspeak Link](https://thingspeak.com/channels/1899118) | [GitHub](https://github.com/FlameCerberus/IoT-based-Location-Tracking-and-Health-Monitoring-Device)
 
+## Computer Vision
+
+### 
+
 ## Natural language processing
 
 ### Household Item Classifier: NLP-Powered Categorization of Product Descriptions
@@ -23,3 +27,8 @@ The project aims to provide a comprehensive health and location-tracking solutio
 This project tackles the task of classifying household items based on their textual descriptions using LSTM (Long Short-Term Memory) neural networks. By analyzing product descriptions, the model categorizes items into their perspective categories such as electronics and household items.
 
 [GitHub](https://github.com/FlameCerberus/Products-Categorization-using-LSTM)
+
+## Electronics Projects
+
+### Smart Irrigation System using PIC18F6620 Microcontroller
+
