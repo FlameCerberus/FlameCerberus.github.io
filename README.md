@@ -32,3 +32,4 @@ This project tackles the task of classifying household items based on their text
 
 ### Smart Irrigation System using PIC18F6620 Microcontroller
 
+Smart Irrigation System simulated in Proteus software using PIC18F6620 Microcontroller and various sensors
