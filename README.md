@@ -1,4 +1,4 @@
-# Portfolio Projects by Abang Amirulluqman Farhan aka Flame Cerberus
+# Projects Portfolio by Abang Amirulluqman Farhan
 
 This is a portfolio for a compilation of my projects created for personal use and also professional use during my college years which consist of electronic and AI-related projects.
 
