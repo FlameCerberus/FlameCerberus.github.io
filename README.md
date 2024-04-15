@@ -26,7 +26,7 @@ The project aims to provide a comprehensive health and location-tracking solutio
 
 This project tackles the task of classifying household items based on their textual descriptions using LSTM (Long Short-Term Memory) neural networks. By analyzing product descriptions, the model categorizes items into their perspective categories such as electronics and household items.
 
-[GitHub](https://github.com/FlameCerberus/Products-Categorization-using-LSTM)
+[GitHub](https://github.com/FlameCerberus/Products-Categorization-using-LSTM) | 
 
 ## Electronics Projects
 
@@ -34,4 +34,4 @@ This project tackles the task of classifying household items based on their text
 
 Smart Irrigation System simulated in Proteus software using PIC18F6620 Microcontroller and various sensors
 
-[GitHub](https://github.com/FlameCerberus/Smart-Irrigation-System)
+[GitHub](https://github.com/FlameCerberus/Smart-Irrigation-System) | 
