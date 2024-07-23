@@ -16,6 +16,12 @@ The project aims to provide a comprehensive health and location-tracking solutio
 
 [Thingspeak Link](https://thingspeak.com/channels/1899118) | [GitHub](https://github.com/FlameCerberus/IoT-based-Location-Tracking-and-Health-Monitoring-Device)
 
+### SnipOCR PasteEnter
+
+This Python script monitors a selected area of your screen for numerical values, detects significant changes, and automatically copies and pastes stabilized values. It uses Optical Character Recognition (OCR) to read text from the screen.
+
+ | [GitHub](https://github.com/FlameCerberus/SnipOCR_PasteEnter) | 
+ 
 ## Computer Vision
 
 ### 
